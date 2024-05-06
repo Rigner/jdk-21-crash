@@ -1,0 +1,4 @@
+.idea
+hs_err_pid*
+cmake-build-*
+/java/target/
